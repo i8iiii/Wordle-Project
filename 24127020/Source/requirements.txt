@@ -1,0 +1,2 @@
+Download Pillow library and using (.venv) environment with python 3.12.12
+Background image named "bg.jpg" and "output_words.txt" file must be in the same folder with the source codes
