@@ -81,9 +81,11 @@ Once the environment is activated and the libraries are installed, you can launc
 
 **On macOS/Linux**
 ```
+cd path_to_your_source
 python3 main.py
 ```
 **On Windows**
 ```
+cd path_to_your_source
 python main.py
 ```
