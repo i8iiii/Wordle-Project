@@ -1,0 +1,1 @@
+Download Pillow library and using (.venv) environment with python 3.12.12
