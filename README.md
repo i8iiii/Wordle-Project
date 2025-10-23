@@ -4,7 +4,7 @@ This is a Wordle game clone built with Python and the Tkinter library.
 
 ## Requirements
 
-* **Python 3.12.12** *(Or any Python 3.10+ version)*
+* **Python 3.12.12**
 * **`Pillow`** library *(Used for image processing, e.g., `bg.jpg`)*
 
 All necessary libraries are listed in the **`requirements.txt`** file.
